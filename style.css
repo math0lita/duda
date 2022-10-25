@@ -6,13 +6,6 @@
     margin: 0px;
     padding: 0px;
 }
-main{
-    background-color: rgb(252, 255, 206);
-    margin-top: 10px;
-    border-top: 10px solid rgb(184, 85, 184);
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
 header{
     background-color: white;
     font-family: 'Bebas Neue', cursive;
@@ -23,9 +16,15 @@ header{
 header h1{
     text-shadow: 5px 6px 0px rgb(0 0 0 / 45%);
 }
+main{
+    background-color: rgb(252, 255, 206);
+    margin-top: 10px;
+    border-top: 10px solid rgb(184, 85, 184);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 img{
     display: block;
-    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
     border: 6px solid rgb(218, 167, 30);
